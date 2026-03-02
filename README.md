@@ -1,7 +1,5 @@
 # 📊 Analytical Study of a Wholesale & Retail Vegetable Seller
-### BDM Capstone Project — IIT Madras Online BS Degree Program
 
----
 
 ## 👤 Student Details
 
@@ -10,8 +8,7 @@
 | **Name** | Namra Sania |
 | **Roll Number** | 23f2000313 |
 | **Program** | IITM Online BS Degree Program |
-| **Institution** | Indian Institute of Technology, Madras |
-| **Course** | Business Data Management (BDM) Capstone |
+
 
 ---
 
@@ -248,12 +245,12 @@ jupyter notebook
 
 ## 📜 Declaration
 
-This project was submitted as part of the BDM Capstone for the IITM Online BS Degree Program.
+This project was submitted as part of my coursework for the IITM Online BS Degree Program.
 All data was collected from primary sources with the knowledge and consent of the business owner.
 The analysis and recommendations are for academic purposes only.
 
 **Namra Sania | Roll No: 23f2000313**
-**IIT Madras Online BS Degree Program**
+
 
 ---
-*© 2024 Namra Sania — IIT Madras BDM Capstone Project*
+*© 2024 Namra Sania — IIT Madras
